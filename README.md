@@ -17,7 +17,7 @@ Accurately predicting real estate prices is a major challenge due to the **compl
 
 ## 👥 Team
 
-This project was conducted as part of our ** Final Machine Learning project** in the second year of our **double bachelor's degree in Artificial Intelligence and Organizational Sciences** at **Paris Dauphine University**.
+This project was conducted as part of our **Final Machine Learning project** in the second year of our **double bachelor's degree in Artificial Intelligence and Organizational Sciences** at **Paris Dauphine University**.
 
 I had the opportunity to collaborate with the following teammates on this project:  
 
