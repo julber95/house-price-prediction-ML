@@ -15,6 +15,18 @@ Accurately predicting real estate prices is a major challenge due to the **compl
 
 ---
 
+## 👥 Team
+
+This project was conducted as part of our ** Final Machine Learning project** in the second year of our **double bachelor's degree in Artificial Intelligence and Organizational Sciences** at **Paris Dauphine University**.
+
+I had the opportunity to collaborate with the following teammates on this project:  
+
+- **JIN Clémence**  
+- **MOUANGUE Cameron**  
+- **CHEN Franck**  
+
+---
+
 ## Dataset Overview
 
 The dataset consists of **40,000 real estate listings** with **27 features** characterizing the properties.
