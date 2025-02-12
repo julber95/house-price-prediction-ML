@@ -11,10 +11,6 @@ This project was conducted as part of our **final Machine Learning project** in 
 
 Accurately predicting real estate prices is a major challenge due to the **complexity of the market** and the **variety of influencing factors** (location, size, energy efficiency, etc.). Our objective is to develop a **robust machine learning model** that can estimate prices efficiently, handling missing data and high-dimensional categorical variables.
 
-🚀 **🏆 Our team achieved strong performance in the challenge!**  
-- **Top results in model optimization with XGBoost**  
-- **Implemented advanced feature engineering techniques**  
-
 🔗 **Challenge link:** [Real Estate Price Prediction Challenge](https://challengedata.ens.fr/participants/challenges/68/)
 
 ---
